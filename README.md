@@ -1,7 +1,9 @@
 Task : Session 1
  Solve these questions own your own and try to test yourself what you have learned in the 
 session.
+
  Happy Learning!
+ 
  Q1 :- Print the given strings as per stated format.
  Given strings:
  "Data" "Science" "Mentorship" "Program"
