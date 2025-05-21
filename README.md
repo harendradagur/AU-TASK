@@ -16,6 +16,7 @@ session.
  Q2:- Write a program that will convert celsius value to fahrenheit.
 
 **Code:-**
+
   celsics=float(input("enter temprature in celsius "))
  
   fahrenhite=(celsics*9/5)+32
@@ -25,6 +26,7 @@ session.
 
  Q3:- Take 2 numbers as input from the user.Write a program to swap 
 the numbers without using any special python syntax.
+
 **Code:-**
 a=30
 b=50
