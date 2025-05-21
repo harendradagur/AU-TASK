@@ -14,6 +14,7 @@ session.
 
 
  Q2:- Write a program that will convert celsius value to fahrenheit.
+
 **Code:-**
   celsics=float(input("enter temprature in celsius "))
   fahrenhite=(celsics*9/5)+32
