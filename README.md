@@ -28,11 +28,17 @@ session.
 the numbers without using any special python syntax.
 
 **Code:-**
+
 a=30
+
 b=50
+
 a=a+b
+
 b=a-b
+
 a=a-b
+
 print(a,b)
 
 
