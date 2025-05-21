@@ -17,7 +17,9 @@ session.
 
 **Code:-**
   celsics=float(input("enter temprature in celsius "))
+ 
   fahrenhite=(celsics*9/5)+32
+ 
   print(fahrenhite)
 
 
